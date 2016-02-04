@@ -29,6 +29,11 @@
 			"name": "Allen Newell",
 			"description": "Really into psychology",
 			"imageURL": "http://www.nap.edu/html/biomems/photo/anewell.JPG"
+		},
+		{
+			"name": "Chung Kang Wang",
+			"description": "Weirdo that likes Scala",
+			"imageURL": "http://lorempixel.com/500/500/people/"
 		}
 	]
 }
